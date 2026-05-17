@@ -5,7 +5,7 @@
   "license": "ISC",
   "author": "Saurabh",
   "type": "module",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "Start": "nodemon index.js"
   },
