@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "We will create  two Calculator here, first one will run on terminal and second one is Normal on web.",
+  "license": "ISC",
+  "author": "Saurabh",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "Start": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "ejs": "^5.0.2",
+    "express": "^5.2.1",
+    "helmet": "^8.1.0",
+    "mongoose": "^9.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
